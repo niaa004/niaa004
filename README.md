@@ -14,7 +14,7 @@
 ## 📌 Projects:
 - [Rick and Morty App](https://github.com/niaa004/rick-and-morty-app) – A **Kotlin-based Android app** that fetches and displays character data from the API.
 - [Finance Tracker](https://github.com/niaa004/finance-tracker) – A **financial management app** built with Vue.js.
-- [Trump-Verse](https://github.com/niaa004/white-house-exam) – **Full-stack employee management system** built with **JavaScript (ES6), .NET/C#, Web API, Bootstrap, SQL (Room Database), and Swagger API documentation/testing.**
+- [White-House](https://github.com/niaa004/white-house-exam) – **Full-stack employee management system** built with **JavaScript (ES6), .NET/C#, Web API, Bootstrap, SQL (Room Database), and Swagger API documentation/testing.**
 
 💬 **Get in touch!**  
 📩 nicolaiaalberg@icloud.com | [GitHub](https://github.com/niaa004)
