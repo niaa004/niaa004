@@ -6,7 +6,7 @@
 
 ## 🔧 Technologies & Tools I Work With:
 - **Frontend:** JavaScript (ES6+), TypeScript, React, Vue.js
-- **Backend:** C#, .NET, Java, Kotlin, Python
+- **Backend:** C#, .NET, Java, Kotlin, Python, API Testing (Swagger / OpenAPI)
 - **Databases:** SQL, Room Database
 - **Tools:** Git, Swagger, Spyder, IntelliJ, Android Studio, VS Code
 
