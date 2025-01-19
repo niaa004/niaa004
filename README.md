@@ -7,13 +7,13 @@
 ## 🔧 Technologies & Tools I Work With:
 - **Frontend:** JavaScript (ES6+), TypeScript, React, Vue.js
 - **Backend:** C#, .NET, Java, Kotlin, Python, API Testing (Swagger / OpenAPI)
-- **Databases:** SQL, Room Database
-- **Tools:** Git, Swagger, Spyder, IntelliJ, Android Studio, VS Code
+- **Databases:** Room Database (SQLite)
+- **Tools:** Git, Swagger, IntelliJ, Android Studio, VS Code
 
 ## 📌 Projects:
 - [Rick and Morty App](https://github.com/niaa004/rick-and-morty-app) – A **Kotlin-based Android app** that fetches and displays character data from the API.
 - [Finance Tracker](https://github.com/niaa004/finance-tracker) – A **financial management app** built with Vue.js.
-- [Trump-Verse](https://github.com/niaa004/trump-verse-exam) – **A full-stack employee management system** built with **JavaScript (ES6), .NET/C#, Web API, Bootstrap, and SQL database**.
+- [Trump-Verse](https://github.com/niaa004/trump-verse-exam) – **A full-stack employee management system** built with **JavaScript (ES6), .NET/C#, Web API, Bootstrap, Room Database (SQLite), and Swagger for API documentation/testing.**
 
 💬 **Get in touch!**  
 📩 nicolaiaalberg@icloud.com | [GitHub](https://github.com/niaa004)
