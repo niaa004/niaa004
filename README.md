@@ -8,7 +8,7 @@
 - **Frontend:** JavaScript (ES6+), TypeScript, React, Vue.js
 - **Backend:** C#, .NET, Java, Kotlin, Python
 - **Databases:** SQL, Room Database
-- **Tools:** Git, Docker, Postman, IntelliJ, Android Studio, VS Code
+- **Tools:** Git, Swagger, Spyder, IntelliJ, Android Studio, VS Code
 
 ## 📌 Projects:
 - [Rick and Morty App](https://github.com/niaa004/rick-and-morty-app) – A **Kotlin-based Android app** that fetches and displays character data from the API.
