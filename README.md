@@ -4,4 +4,4 @@ Studying Information Technology – Frontend and Mobile Development at Kristiani
 Focused on building solutions that actually works, both technically and for the user.    
 
 Get in Touch
-www.linkedin.com/in/nicolai-a-93106a179 | nicolaiaalberg@icloud.com | [GitHub](https://github.com/niaa004)
+[LinkedIn](www.linkedin.com/in/nicolai-a-93106a179) | nicolaiaalberg@icloud.com 
