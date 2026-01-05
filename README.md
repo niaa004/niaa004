@@ -8,4 +8,4 @@ Get in Touch:
 
 nicolaiaalberg@icloud.com 
 
-cto@leanbox.com
+nicolai.cto@leanbox.com
