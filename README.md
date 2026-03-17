@@ -10,3 +10,6 @@ Get in Touch:
 nicolaiaalberg@icloud.com 
 
 cto@leanbox.no
+
+Portfolio:
+https://aalberg-portfolio.vercel.app/#projects
