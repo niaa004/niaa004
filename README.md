@@ -4,8 +4,9 @@ Working as CTO for leanbox, focused on building solutions that actually works, b
 
 
 Get in Touch:
+
 [LinkedIn](https://www.linkedin.com/in/nicolai-aalberg-93106a179) 
 
 nicolaiaalberg@icloud.com 
 
-nicolai.cto@leanbox.no
+cto@leanbox.no
