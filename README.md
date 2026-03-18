@@ -12,4 +12,5 @@ nicolaiaalberg@icloud.com
 cto@leanbox.no
 
 Portfolio:
-https://aalberg-portfolio.vercel.app/#projects
+
+https://aalberglab.no
